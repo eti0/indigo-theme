@@ -25,13 +25,15 @@ Indigo is a flat theme for GNOME. [This is a Plano fork](https://github.com/lass
 
 #### Manual installation
 
-Download the theme: https://github.com/eti0/Indigo-theme/archive/master.zip  
-Make a folder in `~/.themes` or `/usr/share/themes` called `Indigo` and extract the content so it looks like this:
+Download the theme: https://github.com/eti0/indigo-theme/archive/master.zip  
+Make a folder in `~/.themes` or `/usr/share/themes` called `indigo` and extract the content so it looks like this:
 
-`Indigo`
-  * `gnome-shell`
-  * `gtk-3.0`
-  * `gtk-2.0`
+```
+indigo-theme/
+├── gnome-shell
+├── gtk-2.0
+└── gtk-3.0
+```
 
 etc.
 
