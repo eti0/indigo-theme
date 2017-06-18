@@ -1,10 +1,10 @@
 # Indigo Theme
 
-Indigo is a flat theme for GNOME. [Plano fork](https://github.com/lassekongo83/plano-theme)
+Indigo is a flat theme for GNOME. [This is a Plano fork](https://github.com/lassekongo83/plano-theme)
 
 ![Indigo theme](Indigo.png?raw=true)
 
-<sub>Screenshot Details: [Wallpaper](link) | [Icons](link)</sub>
+<sub>Screenshot Details: [Wallpaper](https://i.imgur.com/rExzDrS.jpg) | [Icons](https://github.com/snwh/paper-icon-theme)</sub>
 
 ## Requirements
 
@@ -25,7 +25,7 @@ Indigo is a flat theme for GNOME. [Plano fork](https://github.com/lassekongo83/p
 
 #### Manual installation
 
-Download the theme: https://github.com/eti0/Indigo-theme/archive/master.zip
+Download the theme: https://github.com/eti0/Indigo-theme/archive/master.zip  
 Make a folder in `~/.themes` or `/usr/share/themes` called `Indigo` and extract the content so it looks like this:
 
 `Indigo`
@@ -45,4 +45,6 @@ etc.
 > 1. Does the same issue occur with other themes?
 > 1. Screenshot. (Use a host that don't require me to enable JavaScript, cookies or browser plugins to be able to view the image.)
 
-**Do not submit support questions to the issue tracker.** Contact me on [reddit](https://www.reddit.com/user/eti_f/) or irc eti0 @ rizon / freenode for that instead. (Don't always expect an answer though.) Public forums and subreddits could provide better support. Support questions in the issue tracker will be closed as invalid.
+**Do not submit support questions to the issue tracker.** Contact me on [reddit](https://www.reddit.com/user/eti_f/) or irc `eti0 @ rizon or freenode` for that instead (don't always expect an answer though).  
+Public forums and subreddits could provide better support.  
+Support questions in the issue tracker will be closed as invalid.
