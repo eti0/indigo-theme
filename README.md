@@ -1,10 +1,10 @@
-# Plano Theme
+# Indigo Theme
 
-Plano is a flat theme for GNOME and Xfce.
+Indigo is a flat theme for GNOME. [Plano fork](https://github.com/lassekongo83/plano-theme)
 
-![Plano theme](plano.png?raw=true)
+![Indigo theme](Indigo.png?raw=true)
 
-<sub>Screenshot Details: [Wallpaper](http://memovaslg.deviantart.com/art/Alone-353235628) | [Icons](https://github.com/snwh/paper-icon-theme) | GNOME shell extension: [Dash to panel](https://github.com/jderose9/dash-to-panel)</sub>
+<sub>Screenshot Details: [Wallpaper](link) | [Icons](link)</sub>
 
 ## Requirements
 
@@ -25,21 +25,16 @@ Plano is a flat theme for GNOME and Xfce.
 
 #### Manual installation
 
-Download the theme: https://github.com/lassekongo83/plano-theme/archive/master.zip
-Make a folder in `~/.themes` or `/usr/share/themes` called `Plano` and extract the content so it looks like this:
+Download the theme: https://github.com/eti0/Indigo-theme/archive/master.zip
+Make a folder in `~/.themes` or `/usr/share/themes` called `Indigo` and extract the content so it looks like this:
 
-`Plano`
+`Indigo`
   * `gnome-shell`
   * `gtk-3.0`
   * `gtk-2.0`
 
 etc.
 
-Apply the theme in gnome-tweak-tool or dconf-editor. Xfce users can apply it in `Settings > Appearance` and `Settings > Window manager`. If you wish to use the GNOME shell theme make sure the `User themes` extension is activated in gnome-tweak-tool.
-
-#### Other installation options
-
-ArchLinux users can get it on AUR: https://aur.archlinux.org/packages/gtk-theme-plano-git/ (Not maintained by me!)
 
 ## Troubleshooting & Bug reporting
 
@@ -50,4 +45,4 @@ ArchLinux users can get it on AUR: https://aur.archlinux.org/packages/gtk-theme-
 > 1. Does the same issue occur with other themes?
 > 1. Screenshot. (Use a host that don't require me to enable JavaScript, cookies or browser plugins to be able to view the image.)
 
-**Do not submit support questions to the issue tracker.** Contact me on [reddit](https://www.reddit.com/user/Frellwit/) or [deviantART](http://lassekongo83.deviantart.com) for that instead. (Don't always expect an answer though.) Public forums and subreddits could provide better support. Support questions in the issue tracker will be closed as invalid.
+**Do not submit support questions to the issue tracker.** Contact me on [reddit](https://www.reddit.com/user/eti_f/) or irc eti0 @ rizon / freenode for that instead. (Don't always expect an answer though.) Public forums and subreddits could provide better support. Support questions in the issue tracker will be closed as invalid.

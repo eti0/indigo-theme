@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Plano
-Comment=A flat theme for GNOME and Xfce
+Name=Indigo
+Comment=A flat theme for GNOME. Based on Plano.
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Plano
-MetacityTheme=Plano
+GtkTheme=Indigo
+MetacityTheme=Indigo
 IconTheme=gnome
 CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
